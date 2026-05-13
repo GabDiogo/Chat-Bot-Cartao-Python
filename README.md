@@ -6,7 +6,7 @@ Flávio Henrique - 2595528 \
 Laryssa Dantas Vieira - 2342968 \
 Gabriel Diogo - 2683210 \
 Guilherme Pedigone - 2712633 \
-Gustavo Severiano - 
+Gustavo Severiano - 2451830
 
 ## Detalhes
 
